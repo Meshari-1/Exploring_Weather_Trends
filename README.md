@@ -1,2 +1,3 @@
 # Exploring_Weather_Trends
-The goal of this project is to analyze the different temperatures over a 173-year period.
+
+There are two main temperature categories that have been examined, which are global and local temperatures. The two average temperatures have been analysed and presented on a historical line graph to get a better understanding and clearer insight into the weather trends. This project consists of three main stages as
